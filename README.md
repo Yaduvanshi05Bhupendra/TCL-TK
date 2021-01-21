@@ -1,4 +1,4 @@
-# TCL-TK Practice and Projects
+<h1 align="center" text = "teal">TCL-TK Practice and Projects</h1>
 
 <br/>
 <p align="center">
